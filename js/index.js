@@ -38,7 +38,7 @@ const displaySearchBook = data => {
     if (dataNumber === 0) {
         searchTotal.innerText = "No Result Found";
     } else {
-        searchTotal.innerText = `Total Found: ${String(dataNumber)}`;
+        searchTotal.innerText = `Total Search Result: ${String(dataNumber)}`;
     }
     
     ////////books column////////////
