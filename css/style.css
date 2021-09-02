@@ -1,0 +1,16 @@
+/* body section */
+.body {
+    background-color: rgb(238, 238, 238);
+}
+
+
+/* spiner section */
+#spinner {
+    display: none;
+}
+
+
+/* search found column section */
+.col:hover {
+    cursor: pointer;
+}
